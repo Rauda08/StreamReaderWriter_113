@@ -1,5 +1,6 @@
 #include <fstream>
 #include <iostream>
+#include <string>
 using namespace std;
 
 int main() {
@@ -45,25 +46,5 @@ int main() {
 	}
 	//jika tidak ditemukan file maka akan menampilkan ini
 	else cout << "Unable to open file";
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-rauda;
+	return 0;
+}
